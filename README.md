@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajveersinh Suratiya</h1>
+<h1 align="center">Hi 👋, I'm  Hardik Rathwa</h1>
 <h3 align="center">Passionate Embedded Software Eng And Tech Enthusiast </h3>
 
 <p align="center">
