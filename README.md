@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Hardik Rathwa</h1>
-<h3 align="center">Passionate Embedded Software Eng And Tech Enthusiast </h3>
+<h3 align="center">Passionate Mechatronics,Automation,Computer Vision </h3>
 
 <p align="center">
   🚀 Embedded system Development/ Programming, IOT, AI/ML and ensuring application reliability.
