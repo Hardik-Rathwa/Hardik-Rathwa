@@ -9,9 +9,9 @@
 
 
 ### 🌟 About Me 
-- **Embedded Software Engineer** ❤️  
-- Pursuing **MS in Electrical Eng & Embedded Sys** at RWU - Germany 🎓  
-- Passionate about **Embedded Programming, Computer Vision, IOT, and Robotics projects** 🔭  
+- **Mechatronics Engineer** ❤️  
+- Pursuing **Master in Mechatronics Engineering** at RWU - Germany 🎓  
+- Passionate about **Automation,Robotics** 🔭  
 - Enjoy engaging in **thoughtful discussions** 💯  
   
 
