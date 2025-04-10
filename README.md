@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Mechatronics,Automation,Computer Vision </h3>
 
 <p align="center">
-  🚀 Embedded system Development/ Programming, IOT, AI/ML and ensuring application reliability.
+  🚀 Industrial Automation,Robotics,Advanced control system,Power Electronics,Simulation of Mechatronics Systems.
 </p>
 
 ---
